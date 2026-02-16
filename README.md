@@ -1,9 +1,9 @@
-# 💌 Me? Ur Fave? Right… 👀
+# 💌 Me? Ur Fave? Right…
 
 Hello, fellow human being.
 Welcome to a cute little interactive webpage built using **HTML, CSS, and JavaScript** — made for all the cuties out there.
 This project features an interactive envelope 💌. When you click it, it reveals a **VERY important question**:
-> **“Am I ur favorite?”**
+ **“Am I ur favorite?”**
 Now here’s the twist…
 If the user dares to press **“No”**, the button starts running away.
 (Not literally, of course — it just moves around the screen 😌)
